@@ -1,1 +1,1 @@
-# c3b-template
+README
